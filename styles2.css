@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(163, 157, 157);
+    
+}
+h1{
+    color:white ;
+    font-family: 'Domine', serif;
+    text-align: center;
+}
+.nombre{
+    color:white;
+    font-family: 'Domine', serif;
+}
+.edad{
+    color:white;
+    font-family: 'Domine', serif;
+}
+.dni{
+    color: white;
+    font-family: 'Domine', serif;
+   
+}
+.tutor{
+    color:white;
+    font-family: 'Domine', serif;
+}
+.mail{
+    color: white;
+    font-family: 'Domine', serif;
+    
+}
+p{
+    color:rgb(73, 66, 66);
+    font-family: 'Domine', serif;
+    font-size: larger;
+}
+

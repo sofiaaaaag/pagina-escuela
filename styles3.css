@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: grey;
+}
+h1{
+    color:white ;
+    font-family: 'Domine', serif;
+}
+h2{
+    color:grey;
+    font-family: 'Domine', serif;
+}
+p{
+    color:white ;
+    font-family: 'Domine', serif;
+    font-size: larger;
+}
+
+.container {
+background-color: white;
+padding: 15px;
+border-radius: 40px;
+text-align: center;
+
+}
+img{
+    margin-left: 20px;
+margin-bottom: 20px;
+}

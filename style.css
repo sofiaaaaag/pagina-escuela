@@ -1,0 +1,104 @@
+body{
+
+    justify-content: center;
+    height: 100vh;
+    margin:0;
+    
+}
+
+h1{
+    color: rgb(63, 57, 57);
+    font-family: 'Domine', serif;
+    text-align: center
+   
+}
+
+
+.logo{
+    display:grid;
+    grid-template-columns: 1fr;
+    place-items: center;
+}
+.aa{
+    text-align: center;
+    background-color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.botones{
+    padding: 5px;
+    background-color:rgb(59, 59, 165);
+    color:white;
+    border: none;
+    border-radius: 50px;
+    margin: 80px;
+    cursor: pointer;
+    font-family: 'Domine', serif;
+    font-size: smaller;
+}
+.article1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    border-radius: 5px;
+}
+h2{
+    font-family: 'Domine', serif;
+    color: white;
+    text-align: center;
+
+}
+.descripcion{
+    font-family: 'Domine', serif;
+    font-size: larger;
+    color:white;
+}
+h3{
+    font-family: 'Domine', serif;
+color: white;
+}
+.mapa{
+    position: absolute;
+    left: 70px;
+}
+.contacto{
+    font-family: 'Domine', serif;
+    font-size: larger;
+}
+footer{
+    list-style: none;
+    padding: 10px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 10px;
+   height: auto;
+    
+}
+.articulos{
+    list-style: none;
+    padding: 10px 20px;
+    background-color:grey;
+    border-radius: 25px;
+    margin: 10px;
+
+}
+
+.container{
+    background-color: rgb(59, 59, 165);
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+button{
+    
+    font-size: larger;
+    font-family: 'Domine', serif;
+    color: rgb(88, 82, 82);
+    border-radius: 15px;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 50px;
+    cursor: pointer;
+}
+p{
+    font-family: 'Domine', serif;
+}

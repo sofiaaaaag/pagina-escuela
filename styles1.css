@@ -1,0 +1,69 @@
+body{
+    align-items: center;
+    background-color: grey;
+}
+.articleQ{
+    width: 80%;
+    display: flex;
+    gap: 25px;
+}
+h1{
+    
+    font-family: 'Domine', serif;
+    color: white;
+}
+.descripcion1{
+    font-size: larger;
+    font-family: 'Domine', serif;
+    color: grey;
+    text-align: left;
+}
+.articleP{
+    width: 80%;
+    display: flex;
+    gap: 25px;
+}
+.descripcion2{
+    font-size: larger;
+    font-family: 'Domine', serif;
+    color: grey;
+    text-align: left;
+
+}
+.articleE{
+    width: 80%;
+    display: flex;
+    gap: 25px;
+}
+.descripcion3{
+    font-size: larger;
+    font-family: 'Domine', serif;
+    color: grey;
+    text-align: left;
+}
+h2{
+    color: grey;
+    font-family: 'Domine', serif;
+}
+img{
+    margin-left: 20px;
+}
+.container{
+    background-color: white;
+    padding: 10px; 
+    border-radius: 30px;
+    border: 10px solid grey;
+    
+}
+.container2{
+    background-color: white;
+    padding: 10px; 
+    border-radius: 30px;  
+    border: 10px solid grey;
+}
+.container3{
+    background-color: white;
+    padding: 10px; 
+    border-radius: 30px;
+    border: 10px solid grey;
+}
